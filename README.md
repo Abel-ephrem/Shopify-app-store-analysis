@@ -7,7 +7,7 @@
 
 The marketplace is growing fast and merchants are generally satisfied, but satisfaction varies by category and developers rarely engage with reviews.
 
-- 500 apps, 7,980 reviews, **4.19** average rating.
+- 500 apps, 7,980 reviews, **4.20** average rating.
 - Reviews grew from 262 (2020) to **3,804** (2024) while ratings held steady.
 - Productivity (4.39) and Sales & Conversion (4.35) rate highest; Loyalty & Rewards (4.02) rates lowest.
 - Only **24.8%** of reviews get a developer reply.
